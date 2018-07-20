@@ -1,5 +1,5 @@
 # SierraRealEstateWebsite
-Build a real estate website using React using React Router to navigate between pages. If the chance arises I would like to implement Redux but I dont think that this project will require managing very much state.
+Build a real estate website using React with React Router to navigate between pages. If the chance arises I would like to implement Redux but I dont think that this project will require managing very much state.
 
 A quick brainstorm of the layout of the website based on what I think consumer would want to see. 
 
